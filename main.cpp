@@ -1,5 +1,5 @@
 //
-// Created by Matt White on 11/07/2024.
+// Created by Matt on 11/07/2024.
 //
 #include <QApplication>
 #include "calculator.h"
